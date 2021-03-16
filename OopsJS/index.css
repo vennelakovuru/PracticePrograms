@@ -1,0 +1,8 @@
+p {
+    margin : 10%;
+    border : solid coral;
+    border-width: 50px;
+    padding: 5%;
+    border-radius: 10%;
+    position: static;
+}
